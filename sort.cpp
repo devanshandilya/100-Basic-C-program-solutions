@@ -1,3 +1,4 @@
+//sorting input string by ascending order of characters using vectors
 #include<iostream>
 using namespace std;
 string sortchar( string s) //declaring a function 
