@@ -1,3 +1,4 @@
+//to print the reverse of an array using 2 functions
 #include <iostream>
 using namespace std;
 void reversearray(int arr[],int start, int end) //declaring function to reverse an array
