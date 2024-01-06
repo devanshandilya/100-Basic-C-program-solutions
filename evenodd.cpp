@@ -18,5 +18,4 @@ int main()
     }
     
     cout<<"ODD = "<<oddSum<<endl<<"EVEN = "<<evenSum; //this gives the sum of  even elements as well as odd elements on 2 different lines
-    return 0;
 }
