@@ -3,7 +3,7 @@
 //using 2 functions
 #include <iostream> 
 using namespace std; 
-void selectionsort(int array[], int n) //creating function whivh will contain the sorting algorithm
+void selectionsort(int array[], int n) //creating function which will contain the sorting algorithm
 { 
 	int i, j, min; //min for the minimum element
 	for(i=0;i<n-1;i++) //for loop for index starting from 0 upto length of array
@@ -23,7 +23,7 @@ void printSortedArray(int array[], int n) //function to print the sorted array
 	int i; 
 	for(i=0;i<n;i++) 
     { 
-		cout<< array[i]<<" "; 
+		cout<< array[i]<<" "; //prints array elements separated by space
 	
 	} 
 } 
@@ -36,7 +36,7 @@ int main()
     cout<<"Enter Array Elements: ";
     for(int i=0;i<size;i++)
     {
-        cin>>arr[i];
+        cin>>arr[i]; //input array elements separated by space
     }
     selectionsort(arr, size); 
 	cout<<"Sorted array: ";      //calling functions
