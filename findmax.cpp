@@ -1,4 +1,6 @@
 //printing max element of an array
+//printing by using function
+//input array result
 #include <iostream>
 using namespace std;
 int findmax(int arr[],int size) //creating function to contain find max algorithm
