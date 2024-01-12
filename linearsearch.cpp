@@ -1,3 +1,6 @@
+//find index of input element using linear search algorithm
+//linear search use
+//using a function
 #include<iostream>
 using namespace std;
 int linearsearch(int arr[], int key,int n)//declaring function to do llinear search
