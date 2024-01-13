@@ -1,4 +1,6 @@
 //printing sum of even elements and odd elements separately from an input array
+//print even
+//print odd
 #include <iostream>
 using namespace std;
 int main()
