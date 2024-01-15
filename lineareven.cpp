@@ -1,3 +1,5 @@
+//find index of first even element in an array
+//find index using linear search
 #include <iostream>
 using namespace std;
 int findindexlinear(int arr[], int  n)
