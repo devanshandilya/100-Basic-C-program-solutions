@@ -1,3 +1,6 @@
+//find the index of given element using binary search
+//usage binary search algorithm
+//find key element index in an array using function 
 #include <iostream>
 using namespace std;
 int binarysearch(int arr[], int n,int key) //declaring function to contain binary search algorithm
